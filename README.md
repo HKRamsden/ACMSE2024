@@ -1,4 +1,4 @@
-# ACMSE 2024 - Tame Neam
+# ACMSE 2024 - Tame Neam 2nd Place Overall
 ## Kennesaw State University Spring 2024 -- Programming Competiton
 The task for this project is to create a program that makes daily stock recommendations at the end of the day. 
 The program shall be executed once per day, for 30 days total. 
